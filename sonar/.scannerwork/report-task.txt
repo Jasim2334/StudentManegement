@@ -1,0 +1,6 @@
+projectKey=Student
+serverUrl=http://127.0.0.1:9000
+serverVersion=10.3.0.82913
+dashboardUrl=http://127.0.0.1:9000/dashboard?id=Student
+ceTaskId=AY0WToTDi3Cw97q0jMVq
+ceTaskUrl=http://127.0.0.1:9000/api/ce/task?id=AY0WToTDi3Cw97q0jMVq
